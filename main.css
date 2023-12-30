@@ -1,0 +1,81 @@
+body{
+    background-color: #081b29;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.fontweight{
+    font-weight: 500;
+}
+
+.box-color{
+    background-color: #112e42;
+}
+
+.fontcolor{
+    color: #ededed;
+}
+
+.margin{
+    margin-top: 15%;
+}
+
+.hlfontcolor,#home{
+    color:#00abf0;
+}
+
+.hlbackcolor{
+    background-color:#112e42;
+}
+
+.buttonlink{
+    color: #ededed;
+    text-decoration: none;
+}
+
+.icons{
+    font-size: 30px;
+}
+
+.profilepic{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background-image: url("./my-profilepicture.png");
+background-position: center center;
+background-size: cover;
+box-shadow: #00abf0 0px 0px 5px 2px;
+}
+
+li {
+    font-size:large;
+}
+
+li span{
+    font-size: medium;
+    
+}
+
+.padbox{
+    padding: 15px;
+    padding-left: 25px;
+}
+
+.padboxbot{
+    padding-bottom: 40px;
+}
+
+.inputsec{
+    background-color:#081b29; 
+}
+
+.form-control::placeholder{
+    color:#fff !important;
+    opacity: 1;
+}
+
+.submitwidth{
+    width: 15%;
+}
